@@ -1,9 +1,8 @@
 
 # *************************************************************************
 # ***              DO NOT TOUCH FILES IN THIS DIRECTORY!                ***
-# *** FILES IN THIS DIRECTORY AND SUBDIRECTORIES CONSTITUTE A DERBY     ***
-# *** DATABASE, WHICH INCLUDES THE DATA (USER AND SYSTEM) AND THE       ***
-# *** FILES NECESSARY FOR DATABASE RECOVERY.                            ***
-# *** EDITING, ADDING, OR DELETING ANY OF THESE FILES MAY CAUSE DATA    ***
-# *** CORRUPTION AND LEAVE THE DATABASE IN A NON-RECOVERABLE STATE.     ***
+# *** FILES IN THIS DIRECTORY ARE USED BY THE DERBY DATABASE RECOVERY   ***
+# *** SYSTEM. EDITING, ADDING, OR DELETING FILES IN THIS DIRECTORY      ***
+# *** WILL CAUSE THE DERBY RECOVERY SYSTEM TO FAIL, LEADING TO          ***
+# *** NON-RECOVERABLE CORRUPT DATABASES.                                ***
 # *************************************************************************
